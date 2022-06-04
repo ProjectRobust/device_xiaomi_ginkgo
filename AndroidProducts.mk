@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ginkgo.mk
+    $(LOCAL_DIR)/robust_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ginkgo-userdebug
+    robust_ginkgo-userdebug
